@@ -1,0 +1,58 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    
+}
+div {
+    width: 100%;
+    /* max-width: 100%;
+    min-width: 400px; */
+    
+    background-color: rgb(16, 16, 167);
+    color: aliceblue;
+    display: flex;
+}
+h1 {
+    padding: 30px;
+    padding-left: 50px;
+    width: 30%;
+    height: 20px;
+}
+h3 {
+    margin: 35px 45px;
+    
+}
+.but, h3:hover {
+    border: 1px solid gray;
+}
+.ab {
+    background-color: rgb(60, 60, 247);
+    padding: 5px 15px;
+     border-radius: 50px;
+     margin: 30px;
+  border: none;
+  position: relative;
+  left: 15%;
+}
+p{
+    margin: 5%;
+}
+.as {
+   text-align: right; 
+   
+    padding: 30px;
+    padding-left: 50px;
+    width: 48%;
+    height: 20px;
+
+}
+.but {
+    background-color: rgb(60, 60, 247);
+    padding: 5px 15px;
+     border-radius: 50px;
+     margin: 30px;
+  border: none;
+}
+.b {
+    width: 45%;
+}
